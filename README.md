@@ -9,5 +9,5 @@
 *Система керування закладом громадського харчування.*
 
 ## Зроблено за допомогою:
-1. [easyUML for Netbeans](http://plugins.netbeans.org/plugin/55435/easyuml)
+ [easyUML for Netbeans](http://plugins.netbeans.org/plugin/55435/easyuml)
  
